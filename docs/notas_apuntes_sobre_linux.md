@@ -30,3 +30,9 @@ an unwanted and partially completed command.
 
 hay que mejorar la comprension en ingles...
 a
+
+---
+
+en caso de error de github al sincronizar escribir en terminal lo siguiente
+sssh-add -l  
+ssh-add ~/.ssh/dlenard_gh
