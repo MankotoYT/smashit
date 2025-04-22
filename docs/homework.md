@@ -9,6 +9,7 @@ leonard notes
 
 -[] en la terminal, ejecutar `vimtutor` y seguir el tutorial hasta la seccion `1.3.1`
 
-```md
+````md
 leonard notes
-```
+prueba```
+````
