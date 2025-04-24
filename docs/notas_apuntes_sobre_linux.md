@@ -29,9 +29,36 @@ NOTE: Pressing <ESC> will place you in Normal mode or will cancel
 an unwanted and partially completed command.
 
 hay que mejorar la comprension en ingles...
-a
+actualizacion del di 04/23
+
+se aprendio a borrar de distintas manera no creo llegar a implementar todo de una es mas herramientas que uno
+se acostumbra conforme la necesidad lo amerite sigo pollito
+
+Lesson 1.2 SUMMARY
+
+1. To delete from the cursor up to the next word type: dw
+2. To delete from the cursor up to the end of the word type: de
+3. To delete from the cursor to the end of a line type: d$
+4. To delete a whole line type: dd
+
+5. To repeat a motion prepend it with a number: 2w
+6. The format for a change command is:
+   operator [number] motion
+   where:
+   operator - is what to do, such as d for delete
+   [number] - is an optional count to repeat the motion
+   motion - moves over the text to operate on, such as w (word),
+   e (end of word), $ (end of the line), etc.
+
+7. To move to the start of the line use a zero: 0
+
+8. To undo previous actions, type: u (lowercase u)
+   To undo all the changes on a line, type: U (capital U)
+   To undo the undos, type: CTRL-R
 
 ---
+
+en la leccion 1,3,1 se usa el P para acomodar lo borrado en la siguiente linea
 
 en caso de error de github al sincronizar escribir en terminal lo siguiente
 sssh-add -l  
