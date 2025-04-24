@@ -63,3 +63,4 @@ en la leccion 1,3,1 se usa el P para acomodar lo borrado en la siguiente linea
 en caso de error de github al sincronizar escribir en terminal lo siguiente
 sssh-add -l  
 ssh-add ~/.ssh/dlenard_gh
+,

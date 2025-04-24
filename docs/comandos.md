@@ -17,3 +17,4 @@ mkdir:crea directorios
 touch: crea un archivo
 rmidir: elimina directorios vacios
 rm: elimina recursivamente directorios
+.

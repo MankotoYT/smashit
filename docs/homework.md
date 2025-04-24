@@ -4,3 +4,4 @@
 `rm`, `rmdir`
 
 -[x]en la terminal, ejecutar `vimtutor` y seguir el tutorial hasta la seccion `1.3.1`
+.
